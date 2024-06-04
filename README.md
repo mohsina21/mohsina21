@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 Dedicated to honing my developer skills for continuous improvement.<br>👯 Seeking collaborative opportunities to expand my project portfolio.<br>🤝 Thrive in dynamic team environments, embracing programming challenges.<br>🌱 Currently diving deep into JavaScript, hungry for knowledge.<br>🚀 Excited to push boundaries and explore new technologies.<br>
+<br>🔭 Dedicated to honing my developer skills for continuous improvement.<br>👯 Seeking collaborative opportunities to expand my project portfolio.<br>🤝 Thrive in dynamic team environments, embracing programming challenges.<br>🌱 Currently diving deep into React Native, hungry for knowledge.<br>🚀 Excited to push boundaries and explore new technologies.<br>
 
 
 ## 🌐 Socials:
