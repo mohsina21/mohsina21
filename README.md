@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsina-parveen-577367203/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/notmohsina)  
 
-### ✨ About Me
 - 👋 Hi, I’m **Mohsina**  
 - 💻 Check out my portfolio: [Portfolio](https://mohsina-portfolio.vercel.app/)  
 
