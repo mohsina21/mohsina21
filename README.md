@@ -38,16 +38,38 @@ Beyond writing code, I actively contribute to developer communities, collaborate
 
 ---
 
-## Find Me Online
+## Connect
 
-* 🌐 Portfolio → https://mohsina-portfolio.vercel.app
-* 💼 LinkedIn → https://linkedin.com/in/mohsina21
-* 🐦 X → https://x.com/notmohsina
-* 📸 Instagram → https://instagram.com/mohsina.core
-* 💻 GitHub → https://github.com/mohsina21
-* 🏢 Work Profile → https://github.com/ellaire-uix
+<p align="left">
+  <a href="https://mohsina-portfolio.vercel.app/" target="_blank">
+    <img src="https://cdn.simpleicons.org/vercel/white" width="22" />
+  </a>
+  &nbsp;&nbsp;
 
----
+  <a href="https://linkedin.com/in/mohsina21" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin" width="22" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://x.com/notmohsina" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/white" width="22" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://instagram.com/mohsina.core" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="22" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/mohsina21" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/white" width="22" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/ellaire-uix" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/white" width="22" />
+  </a>
+</p>
 
 <div align="center">
 
