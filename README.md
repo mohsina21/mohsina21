@@ -10,24 +10,29 @@ Building products, exploring AI, and turning ideas into experiences.
   <a href="https://mohsina-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;
 
   <a href="https://linkedin.com/in/mohsina21" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
 
   <a href="https://x.com/notmohsina" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
+  &nbsp;
 
   <a href="https://instagram.com/mohsina.core" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  &nbsp;
 
   <a href="https://github.com/ellaire-uix" target="_blank">
     <img src="https://img.shields.io/badge/UIX_Labs-181717?style=for-the-badge&logo=github&logoColor=white" alt="UIX Labs" />
   </a>
 </p>
 
+&nbsp;&nbsp;
 
 ---
 
@@ -57,19 +62,28 @@ Beyond writing code, I actively contribute to developer communities, collaborate
   <a href="https://mohsina-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
+
   <a href="https://linkedin.com/in/mohsina21">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
+
   <a href="https://x.com/notmohsina">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
+
   <a href="https://instagram.com/mohsina.core">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
+
   <a href="https://github.com/ellaire-uix">
     <img src="https://img.shields.io/badge/UIX_Labs-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
+
 
 <div align="center">
 
