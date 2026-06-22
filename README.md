@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,100:111827&text=Mohsina%20Parveen&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%40%20UIX%20Labs&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,100:111827&text=Mohsina%20Parveen&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Software%20Development%20Engineer%20%40%20UIX%20Labs&descAlignY=58" />
 </p>
 
 <h3 align="center">
@@ -9,41 +9,43 @@ Building products, exploring AI, and turning ideas into experiences.
 <p align="center">
   <a href="https://mohsina-portfolio.vercel.app/">Portfolio</a>
   •
-  <a href="https://www.linkedin.com/in/mohsina-parveen-577367203/">LinkedIn</a>
+  <a href="https://linkedin.com/in/mohsina21">LinkedIn</a>
   •
-  <a href="https://twitter.com/notmohsina">X</a>
+  <a href="https://x.com/notmohsina">X</a>
   •
-  <a href="https://www.instagram.com/mohsina__parveen/">Instagram</a>
+  <a href="https://instagram.com/mohsina.core">Instagram</a>
 </p>
 
 ---
 
 ## About
 
-I'm Mohsina, a Full Stack Developer currently working at **UIX Labs** and pursuing a degree in Computer Science.
+I'm Mohsina, a Software Development Engineer at **UIX Labs** and a Computer Science student passionate about building thoughtful digital products.
 
-I enjoy building products that sit at the intersection of technology, design, and user experience. My interests range from AI-powered applications and developer tools to product engineering and modern web platforms.
+My interests span across AI-powered applications, developer tools, product engineering, and modern web technologies. I enjoy creating solutions that balance technical excellence with exceptional user experience.
 
-Beyond development, I actively contribute to tech communities, mentor peers, and love transforming ambitious ideas into real products.
+Beyond writing code, I actively contribute to developer communities, collaborate on ambitious projects, and continuously explore new technologies that shape the future of software.
 
 ---
 
-## Current Focus
+## What I'm Working On
 
 * Building scalable software products
-* Exploring AI and intelligent systems
-* Learning more about architecture and system design
-* Contributing through **@ellaire-uix**
-* Creating things that solve real problems
+* Exploring AI systems and intelligent workflows
+* Learning architecture and system design
+* Contributing through **[@ellaire-uix](https://github.com/ellaire-uix)**
+* Turning ideas into products that create real impact
 
 ---
 
-## Elsewhere
+## Find Me Online
 
-* 🌐 Portfolio: https://mohsina-portfolio.vercel.app
-* 💼 LinkedIn: https://www.linkedin.com/in/mohsina-parveen-577367203/
-* 🐦 X: https://twitter.com/notmohsina
-* 📸 Instagram: https://www.instagram.com/mohsina__parveen/
+* 🌐 Portfolio → https://mohsina-portfolio.vercel.app
+* 💼 LinkedIn → https://linkedin.com/in/mohsina21
+* 🐦 X → https://x.com/notmohsina
+* 📸 Instagram → https://instagram.com/mohsina.core
+* 💻 GitHub → https://github.com/mohsina21
+* 🏢 Work Profile → https://github.com/ellaire-uix
 
 ---
 
