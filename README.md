@@ -7,13 +7,29 @@ Building products, exploring AI, and turning ideas into experiences.
 </h3>
 
 <p align="center">
-  <a href="https://mohsina-portfolio.vercel.app/">Portfolio</a>
-  •
-  <a href="https://linkedin.com/in/mohsina21">LinkedIn</a>
-  •
-  <a href="https://x.com/notmohsina">X</a>
-  •
-  <a href="https://instagram.com/mohsina.core">Instagram</a>
+  <a href="https://mohsina-portfolio.vercel.app/" target="_blank">
+    <img src="https://cdn.simpleicons.org/vercel/white" width="28" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/mohsina21" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin" width="28" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://x.com/notmohsina" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/white" width="28" alt="X" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://instagram.com/mohsina.core" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/ellaire-uix" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/white" width="28" alt="UIX Labs" />
+  </a>
 </p>
 
 ---
